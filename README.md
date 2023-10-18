@@ -1,6 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project. Full process and video lectures how to create the application can be found here: [Solidity & Ethereum in React (Next JS): The Complete Guide
-](https://www.udemy.com/course/solidity-ethereum-in-react-next-js-the-complete-guide/?referralCode=2436B1CB6ED554938127)
-
 ## Overview
 
 Marketplace has dependencies on multiple technologies.
